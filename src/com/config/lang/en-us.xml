@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <Login>
+        <Login id="TITLE">LOGIN - The Caffeine Cove</Login>
+        <Login id="USERNAME">User name</Login>
+        <Login id="ERROR_MESSAGE">Incorrect information or Account is Locked</Login>
+        <Login id="LOGIN">Login</Login>
+        <Login id="CHANGE_LANGUAGE">Khởi động lại để đổi ngôn ngữ</Login>        
+    </Login>
+    <Home>
+        <Home id="TITLE">HOME  - The Caffeine Cove</Home>
+        <Home id="EMPLOYEE">Employee</Home>
+        <Home id="ACCOUNT">Account</Home>
+        <Home id="BRANCH">Brand</Home>
+        <Home id="SELL">Sale</Home>
+        <Home id="STAT">Bistatistic</Home>
+        <Home id="CUSTOMER">Customer</Home>
+        <Home id="MANAGE_DRINKS">Drink Manager</Home>   
+        <Home id="MANAGER">Manager</Home>
+        <Home id="GUEST">Guest</Home> 
+        <Home id="BILL">Bill</Home>
+        <Home id="DISCOUNT">Discount</Home>
+    </Home>
+    <Menu>
+        <Menu id="TITLE">Menu - The Caffeine Cove</Menu>
+        <Menu id="TABLE">Table</Menu>
+    </Menu>
+    <Bill>
+        <Bill id="TITLE">Bill of table </Bill>
+        <Bill id="NUMBER_ORDER">NO</Bill>
+        <Bill id="NAME_DRINK">Name</Bill>
+        <Bill id="PRICE">Price</Bill>
+        <Bill id="QUANLITY">Quanlity</Bill>
+        <Bill id="PRINT">Print bill</Bill>
+        <Bill id="PAY">Pay</Bill>
+        <Bill id="PRINT_MESSAGE">Do you want to print bill?</Bill>
+        <Bill id="PRINT_TITLE">Print bill</Bill>
+        <Bill id="PAY_TITLE">Payment</Bill>
+        <Bill id="PAY_SUCCESS">Success payment</Bill>
+        <Bill id="PAY_FAILED">Pay failed</Bill>
+        <Bill id="NOTHING">Nothing to print</Bill>        
+    </Bill>
+    <Account>
+        <Account id="TITLE">Account Manager  - The Caffeine Cove</Account>
+        <Account id="UPDATE">Update</Account>
+        <Account id="RESET">Reset</Account>
+        <Account id="EXIT">Exit</Account>
+        <Account id="KIND">Kind</Account>
+        <Account id="STATUS">Status</Account>
+        <Account id="USERNAME">Username</Account>   
+        <Account id="INFO">Account Information</Account>     
+        <Account id="LOCK">Lock</Account>
+        <Account id="OPEN">Open</Account>
+        <Account id="GUEST">Guest</Account>
+        <Account id="EMPLOYEE">Employee</Account>
+        <Account id="MANAGER">Manager</Account>
+        <Account id="EXIT_MESSAGE">Do you want to exit message</Account>
+        <Account id="NOTIFICATION_TITLE">Notification</Account>
+        <Account id="NOTI_SUCCESS">Success</Account>
+        <Account id="NOTI_FAILED">Failed</Account>
+        <Account id="REFRESH">Refresh</Account>
+    </Account>
+    <Branch>
+        <Branch id="TITLE">Branch information  - The Caffeine Cove</Branch>
+        <Branch id="UPDATE">Update</Branch>
+        <Branch id="RESET">Reset</Branch>  
+        <Branch id="EXIT">Exit</Branch>      
+        <Branch id="REFRESH">Refresh</Branch>
+        <Branch id="LIST_BRANCH">List brach</Branch>
+        <Branch id="ADDRESS">Address</Branch>
+        <Branch id="ID">Branch ID</Branch>
+        <Branch id="INFO">Information</Branch>
+        <Branch id="NAME">Branch name</Branch>
+        <Branch id="DELETE">Delete</Branch>
+        <Branch id="NOTIFICATION_TITLE">Notification</Branch>
+        <Branch id="NOTI_SUCCESS">Sucess</Branch>
+        <Branch id="NOTI_FAILED">Failed</Branch>
+        <Branch id="ERR_NAME_EMPTY">Branch name is empty</Branch>
+        <Branch id="ERR_ADDRESS_EMPTY">Address is empty</Branch>
+        <Branch id="CHOSSE_DELETE">Click branch to delete</Branch>
+        <Branch id="REQUEST_DELETE">Are you sure?</Branch>
+        <Branch id="ADD">Add</Branch>
+    </Branch>
+    <Drinks>
+        <Drinks id="TITLE">Drink Manager - The Caffeine Cove</Drinks>
+        <Drinks id="UPDATE">Update</Drinks>
+        <Drinks id="RESET">Reset</Drinks>
+        <Drinks id="EXIT">Exit</Drinks>
+        <Drinks id="REFRESH">Refresh</Drinks>
+        <Drinks id="DELETE">Delete</Drinks>
+        <Drinks id="NOTE">Note</Drinks>
+        <Drinks id="PRICE">Cost</Drinks>
+        <Drinks id="IMAGE">Image</Drinks>
+        <Drinks id="INFO">Information</Drinks>        
+        <Drinks id="ID">Drink ID</Drinks>
+        <Drinks id="NAME">Drink Name</Drinks>
+        <Drinks id="NOTIFICATION_TITLE">Notification</Drinks>
+        <Drinks id="NOTI_SUCCESS">Sucess</Drinks>
+        <Drinks id="NOTI_FAILED">Failed</Drinks>        
+        <Drinks id="ERR_NAME_EMPTY">Drink name is empty</Drinks>
+        <Drinks id="ERR_PRICE_EMPTY">Cost is empty</Drinks>
+        <Drinks id="CHOSSE_DELETE">Click drink to delete</Drinks>
+        <Drinks id="REQUEST_DELETE">Are you want to delete?</Drinks> 
+        <Drinks id="CHOSSE_FILE">Click image</Drinks>
+        <Drinks id="ADD">Add</Drinks>
+    </Drinks>
+    <Discount>
+        <Discount id="TITLE">Discount - The Caffeine Cove</Discount>
+        <Discount id="UPDATE">Update</Discount>
+        <Discount id="RESET">Reset</Discount>
+        <Discount id="EXIT">Exit</Discount>
+        <Discount id="REFRESH">Refresh</Discount>
+        <Discount id="DELETE">Delete</Discount>
+        <Discount id="START_DATE">Starting date</Discount>
+        <Discount id="END_DATE">Ending date</Discount>
+        <Discount id="VALUE">Value</Discount>
+        <Discount id="ID">Discount ID</Discount>        
+        <Discount id="INFO">Information</Discount>
+        <Discount id="MAX">Maximum</Discount>
+        <Discount id="ADD">Add</Discount>
+        <Discount id="NOTIFICATION_TITLE">Notification</Discount>
+        <Discount id="NOTI_SUCCESS">Sucess</Discount>
+        <Discount id="NOTI_FAILED">Failed</Discount>     
+        <Discount id="CHOSSE_DELETE">Click discount to delete</Discount>
+        <Discount id="REQUEST_DELETE">Are you sure?</Discount>     
+        <Discount id="ERR_PRICE_EMPTY">Cost is empty</Discount>
+        <Discount id="ERR_MAX_EMPTY">Maximun is empty</Discount>
+        <Discount id="ERR_START_DATE">Starting date is wrong format</Discount>
+        <Discount id="ERR_ENMD_DATE">Ending date is not correct</Discount>
+        <Discount id="ERR_DATE">Starting date is sooner than ending date</Discount>        
+    </Discount>
+    <BillFrame>
+        <BillFrame id="TITLE"></BillFrame>
+        <BillFrame id="UPDATE">Update</BillFrame>
+        <BillFrame id="RESET">Reset</BillFrame>
+        <BillFrame id="EXIT">Exit</BillFrame>
+        <BillFrame id="REFRESH">Refresh</BillFrame>
+        <BillFrame id="DELETE">Delete</BillFrame>
+        <BillFrame id="PHONE_NUMBER">Telephone number</BillFrame>
+        <BillFrame id="CREATE_DATE">Create day</BillFrame>
+        <BillFrame id="LIST_DETAILS">List detailed of bill</BillFrame>
+        <BillFrame id="LIST_BILL">List bill</BillFrame>        
+        <BillFrame id="ID_DISCOUNT">Discount ID</BillFrame>
+        <BillFrame id="ID_BILL">Bill ID</BillFrame>
+        <BillFrame id="ID_EMPLOYEE">Employee ID</BillFrame>
+        <BillFrame id="INFO_BILL">Bill information</BillFrame>
+        <BillFrame id="SUM">Sum</BillFrame>
+        <BillFrame id="NOTIFICATION_TITLE">Notification</BillFrame>
+        <BillFrame id="NOTI_SUCCESS">Sucess</BillFrame>
+        <BillFrame id="NOTI_FAILED">Failed</BillFrame>
+        <BillFrame id="CHOSSE_DELETE">Click to delete</BillFrame>
+        <BillFrame id="REQUEST_DELETE">Are you sure?</BillFrame>
+        <BillFrame id="ID_DRINK">Drink ID</BillFrame>
+        <BillFrame id="QUANTILE">Anount</BillFrame>
+        <BillFrame id="PRICE">Cost</BillFrame>        
+        <BillFrame id="ERR_NUMBER_EMPTY">Telephone number is empty</BillFrame>
+        <BillFrame id="ERR_NUMBER_WRONG">Telephone is wrong</BillFrame>        
+        <BillFrame id="ERR_SUM_EMPTY">Sum is empty</BillFrame>
+        <BillFrame id="ERR_SUM_WRONG">Sum is wrong</BillFrame>     
+    </BillFrame>
+    <Customer>
+        <Customer id="TITLE"></Customer>
+        <Customer id="UPDATE">Update</Customer>
+        <Customer id="RESET">Reset</Customer>
+        <Customer id="EXIT">Exit</Customer>
+        <Customer id="REFRESH">Refresh</Customer>
+        <Customer id="DELETE">Delete</Customer>
+        <Customer id="LIST_CUSTOMER">List customer</Customer>
+        <Customer id="SEX">Sex</Customer>
+        <Customer id="PHONE_NUMBER">Telehone number</Customer>
+        <Customer id="INFO_CUSTOMER">Customer Information</Customer>        
+        <Customer id="NAME_CUSTOMER">Name customer</Customer>
+        <Customer id="SUM_POINTS">Sum points</Customer>
+        <Customer id="ADD">Add</Customer>
+        <Customer id="NOTIFICATION_TITLE">Notification</Customer>
+        <Customer id="NOTI_SUCCESS">Sucess</Customer>
+        <Customer id="NOTI_FAILED">Failed</Customer> 
+        <Customer id="CHOSSE_DELETE">Click to delete</Customer>
+        <Customer id="REQUEST_DELETE">Are you sure?</Customer>   
+        <Customer id="ERR_NUMBER_EMPTY">Telephone number is empty</Customer>
+        <Customer id="ERR_NUMBER_WRONG">Telephone number is wrong</Customer>     
+        <Customer id="ERR_NAME_EMPTY">Customer name is empty</Customer>   
+        <Customer id="ERR_POINT_WRONG">Point is wrong</Customer>
+        <Customer id="ERR_POINT_EMPTY">Point is empty</Customer>    
+        <Customer id="MALE">Male</Customer> 
+        <Customer id="FEMALE">Female</Customer> 
+    </Customer>
+    <Employee>
+        <Employee id="TITLE">Employee manager - The Caffeine Cove</Employee>
+        <Employee id="UPDATE">Update</Employee>
+        <Employee id="RESET">Reset</Employee>
+        <Employee id="EXIT">Exit</Employee>
+        <Employee id="REFRESH">Refresh</Employee>
+        <Employee id="DELETE">Delete</Employee>
+        <Employee id="CCCD">CCCD</Employee>
+        <Employee id="LIST_EMPLOYEE">List employee</Employee>
+        <Employee id="SEX">Sex</Employee>
+        <Employee id="ID_BRANCH">Brach ID</Employee>        
+        <Employee id="ID_EMPLOYEE">Employee ID</Employee>
+        <Employee id="DATE_WORK">Working date</Employee>
+        <Employee id="INFO_EMPLOYEE">Employee information</Employee>
+        <Employee id="NAME_BRANCH">Brach name</Employee>
+        <Employee id="NAME_EMPLOYEE">Employee name</Employee>
+        <Employee id="ADD">Add</Employee>
+        <Employee id="NOTIFICATION_TITLE">Notification</Employee>
+        <Employee id="NOTI_SUCCESS">Sucess</Employee>
+        <Employee id="NOTI_FAILED">Faided</Employee>
+        <Employee id="CHOSSE_DELETE">Click employee to delete</Employee>
+        <Employee id="REQUEST_DELETE">Are you sure?</Employee>
+        <Employee id="MALE">Male</Employee> 
+        <Employee id="FEMALE">Female</Employee> 
+        <Employee id="ERR_NAME_EMPLOYEE_EMPTY">Employee name is empty</Employee>
+        <Employee id="ERR_DATE_WRONG">Date is wrong</Employee> 
+        <Employee id="ERR_CCCD">CCCD/CMND is error</Employee> 
+    </Employee>
+    <Stat>
+        <Stat id="TITLE">Statistics</Stat>
+        <Stat id="REVENUE">Revenue</Stat>
+        <Stat id="TITLE_CHART">Daily revenue</Stat>        
+    </Stat>
+    <Chat>
+        <Chat id="SEND">Send</Chat>
+        <Chat id="CANCEL">Cancel: </Chat>
+        <Chat id="ORDER">Order: </Chat>
+    </Chat>
+</language>
+

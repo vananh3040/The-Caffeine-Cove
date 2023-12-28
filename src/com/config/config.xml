@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+<config>
+    <connection>   
+        <connection id="server">localhost</connection>
+        <connection id="database">cafe_java</connection>
+        <connection id="port">1433</connection>
+    </connection>
+    <user>
+        <user id = "guest">
+            <username>TKKHACHCF</username>
+            <password>25d55ad283aa400af464c76d713c07ad</password>
+        </user>
+        <user id = "employee">
+            <username>TKNHANVIENCF</username>
+            <password>25d55ad283aa400af464c76d713c07ad</password>
+        </user>
+        <user id = "manager">
+            <username>sa</username>
+            <password>25d55ad283aa400af464c76d713c07ad</password>
+        </user>
+    </user>
+    <language>  
+        <language id = "selected">vi-vn</language>
+        <language id = "vi-vn">/com/config/lang/vi-vn.xml</language>
+        <language id = "en-us">/com/config/lang/en-us.xml</language>
+    </language>
+    <host>
+        <host id="server">localhost</host>
+        <host id ="port">10100</host>
+    </host>
+</config>

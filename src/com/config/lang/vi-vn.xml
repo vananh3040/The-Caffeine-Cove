@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <Login>
+        <Login id="TITLE">Đăng nhập - The Caffeine Cove</Login>
+        <Login id="USERNAME">Tài khoản</Login>
+        <Login id="ERROR_MESSAGE">Thông tin đăng nhập không chính xác hoặc bị khóa</Login>
+        <Login id="LOGIN">Đăng nhập</Login>
+        <Login id="CHANGE_LANGUAGE">Restart to apply new language</Login>        
+    </Login>
+    <Home>
+        <Home id="TITLE">Trang chủ  - The Caffeine Cove</Home>
+        <Home id="EMPLOYEE">Nhân viên</Home>
+        <Home id="ACCOUNT">Tài khoản</Home>
+        <Home id="BRANCH">Chi nhánh</Home>
+        <Home id="SELL">Bán hàng</Home>
+        <Home id="STAT">Thống kê</Home>
+        <Home id="CUSTOMER">Khách hàng</Home>
+        <Home id="MANAGE_DRINKS">Quản lí đồ uống</Home>
+        <Home id="MANAGER">Quản lí</Home>
+        <Home id="GUEST">Khách</Home>
+    </Home>
+    <Menu>
+        <Menu id="TITLE">Thực đơn - The Caffeine Cove</Menu>
+        <Menu id="TABLE">Bàn</Menu>
+    </Menu>
+    <Bill>
+        <Bill id="TITLE">Hóa đơn bàn </Bill>
+        <Bill id="NUMBER_ORDER">Mã</Bill>
+        <Bill id="NAME_DRINK">Tên món</Bill>
+        <Bill id="PRICE">Giá</Bill>
+        <Bill id="QUANLITY">Số lượng</Bill>
+        <Bill id="PRINT">In hóa đơn</Bill>
+        <Bill id="PAY">Thanh toán</Bill>
+        <Bill id="PRINT_MESSAGE">Bạn có muốn in hóa đơn không?</Bill>
+        <Bill id="PRINT_TITLE">In hóa đơn</Bill>
+        <Bill id="PAY_TITLE">Thanh toán</Bill>
+        <Bill id="PAY_SUCCESS">Thanh toán thành công</Bill>
+        <Bill id="PAY_FAILED">Thanh toán thất bại</Bill>
+        <Bill id="NOTHING">Chưa gọi món</Bill>
+    </Bill>
+    <Account>
+        <Account id="TITLE">Quản lý tài khoản - The Caffeine Cove</Account>
+        <Account id="UPDATE">Cập nhật</Account>
+        <Account id="RESET">Làm trống</Account>
+        <Account id="EXIT">Thoát</Account>
+        <Account id="KIND">Loại</Account>
+        <Account id="STATUS">Trạng thái</Account>
+        <Account id="USERNAME">Tên tài khoản</Account>   
+        <Account id="INFO">Thông tin tài khoản</Account>     
+        <Account id="LOCK">Khóa</Account>
+        <Account id="OPEN">Mở</Account>
+        <Account id="GUEST">Khách</Account>
+        <Account id="EMPLOYEE">Nhân viên</Account>
+        <Account id="MANAGER">Quản lí</Account>
+        <Account id="EXIT_MESSAGE">Bạn có muốn thoát</Account>
+        <Account id="NOTIFICATION_TITLE">Thông báo</Account>
+        <Account id="NOTI_SUCCESS">Thành công</Account>
+        <Account id="NOTI_FAILED">Thất bại</Account>
+        <Account id="REFRESH">Làm mới</Account>
+        <Home id="BILL">Hóa đơn</Home>
+        <Home id="DISCOUNT">Giảm giá</Home>
+    </Account>
+    <Branch>
+        <Branch id="TITLE">Quản lý chi nhánh - The Caffeine Cove</Branch>
+        <Branch id="UPDATE">Cập nhật</Branch>
+        <Branch id="RESET">Làm trống</Branch>  
+        <Branch id="EXIT">Thoát</Branch>      
+        <Branch id="REFRESH">Làm mới</Branch>
+        <Branch id="LIST_BRANCH">Danh sách chi nhánh</Branch>
+        <Branch id="ADDRESS">Địa chỉ</Branch>
+        <Branch id="ID">Mã chi nhánh</Branch>
+        <Branch id="INFO">Thông tin chi nhánh</Branch>
+        <Branch id="NAME">Tên chi nhánh</Branch>
+        <Branch id="DELETE">Xóa</Branch>
+        <Branch id="NOTIFICATION_TITLE">Thông báo</Branch>
+        <Branch id="NOTI_SUCCESS">Thành công</Branch>
+        <Branch id="NOTI_FAILED">Thất bại</Branch>
+        <Branch id="ERR_NAME_EMPTY">Tên chi nhánh còn trống</Branch>
+        <Branch id="ERR_ADDRESS_EMPTY">Địa chỉ còn trống</Branch>
+        <Branch id="CHOSSE_DELETE">Chọn chi nhánh để xóa</Branch>
+        <Branch id="REQUEST_DELETE">Bạn có chắc chắn xóa</Branch>
+        <Branch id="ADD">Thêm</Branch>
+    </Branch>
+    <Drinks>
+        <Drinks id="TITLE">Quản lý đồ uống - The Caffeine Cove</Drinks>
+        <Drinks id="UPDATE">Cập nhật</Drinks>
+        <Drinks id="RESET">Làm trống</Drinks>
+        <Drinks id="EXIT">Thoát</Drinks>
+        <Drinks id="REFRESH">Làm mới</Drinks>
+        <Drinks id="DELETE">Xóa</Drinks>
+        <Drinks id="NOTE">Ghi chú</Drinks>
+        <Drinks id="PRICE">Giá</Drinks>
+        <Drinks id="IMAGE">Hình ảnh</Drinks>
+        <Drinks id="INFO">Thông tin</Drinks>        
+        <Drinks id="ID">Mã đồ uống</Drinks>
+        <Drinks id="NAME">Tên đồ uống</Drinks>
+        <Drinks id="NOTIFICATION_TITLE">Thông báo</Drinks>
+        <Drinks id="NOTI_SUCCESS">Thành công</Drinks>
+        <Drinks id="NOTI_FAILED">Thất bại</Drinks>        
+        <Drinks id="ERR_NAME_EMPTY">Tên đồ uống còn trống</Drinks>
+        <Drinks id="ERR_PRICE_EMPTY">Giá còn trống</Drinks>
+        <Drinks id="CHOSSE_DELETE">Chọn đồ uống để xóa</Drinks>
+        <Drinks id="REQUEST_DELETE">Bạn có chắc chắn xóa</Drinks> 
+        <Drinks id="CHOSSE_FILE">Chọn ảnh</Drinks>
+        <Drinks id="ADD">Thêm</Drinks>
+    </Drinks>
+    <Discount>
+        <Discount id="TITLE">Quản lý Giảm giá - The Caffeine Cove</Discount>
+        <Discount id="UPDATE">Cập nhật</Discount>
+        <Discount id="RESET">Làm trống</Discount>
+        <Discount id="EXIT">Thoát</Discount>
+        <Discount id="REFRESH">Làm mới</Discount>
+        <Discount id="DELETE">Xóa</Discount>
+        <Discount id="START_DATE">Ngày bắt đầu</Discount>
+        <Discount id="END_DATE">Ngày kết thúc</Discount>
+        <Discount id="VALUE">Giá trị</Discount>
+        <Discount id="ID">Mã giảm giá</Discount>        
+        <Discount id="INFO">Thông tin</Discount>
+        <Discount id="MAX">Tối đa</Discount>
+        <Discount id="ADD">Thêm</Discount>
+        <Discount id="NOTIFICATION_TITLE">Thông báo</Discount>
+        <Discount id="NOTI_SUCCESS">Thành công</Discount>
+        <Discount id="NOTI_FAILED">Thất bại</Discount>     
+        <Discount id="CHOSSE_DELETE">Chọn giảm giá để xóa</Discount>
+        <Discount id="REQUEST_DELETE">Bạn có chắc chắn xóa</Discount>     
+        <Discount id="ERR_PRICE_EMPTY">Giá còn trống</Discount>
+        <Discount id="ERR_MAX_EMPTY">Giá trị tối đa còn trống</Discount>
+        <Discount id="ERR_START_DATE">Ngày bắt đầu sai định dạng</Discount>
+        <Discount id="ERR_ENMD_DATE">Ngày kết thúc sai định dạng</Discount>
+        <Discount id="ERR_DATE">Ngày bắt đầu không được trễ hơn ngày kết thúc</Discount>        
+    </Discount>
+    <BillFrame>
+        <BillFrame id="TITLE">Quản lý hóa đơn - The Caffeine Cove</BillFrame>
+        <BillFrame id="UPDATE">Cập nhật</BillFrame>
+        <BillFrame id="RESET">Làm trống</BillFrame>
+        <BillFrame id="EXIT">Thoát</BillFrame>
+        <BillFrame id="REFRESH">Làm mới</BillFrame>
+        <BillFrame id="DELETE">Xóa</BillFrame>
+        <BillFrame id="PHONE_NUMBER">Số điện thoại</BillFrame>
+        <BillFrame id="CREATE_DATE">Ngày tạo</BillFrame>
+        <BillFrame id="LIST_DETAILS">Danh sách chi tiết hóa đơn</BillFrame>
+        <BillFrame id="LIST_BILL">Danh sách hóa đơn</BillFrame>        
+        <BillFrame id="ID_DISCOUNT">Mã giảm giá</BillFrame>
+        <BillFrame id="ID_BILL">Mã hóa đơn</BillFrame>
+        <BillFrame id="ID_EMPLOYEE">Mã nhân viên</BillFrame>
+        <BillFrame id="INFO_BILL">Thông tin hóa đơn</BillFrame>
+        <BillFrame id="SUM">Tổng</BillFrame>
+        <BillFrame id="NOTIFICATION_TITLE">Thông báo</BillFrame>
+        <BillFrame id="NOTI_SUCCESS">Thành công</BillFrame>
+        <BillFrame id="NOTI_FAILED">Thất bại</BillFrame>
+        <BillFrame id="CHOSSE_DELETE">Chọn hóa đơn để xóa</BillFrame>
+        <BillFrame id="REQUEST_DELETE">Bạn có chắc chắn xóa</BillFrame>
+        <BillFrame id="ID_DRINK">Mã đồ uống</BillFrame>
+        <BillFrame id="QUANTILE">Số lượng</BillFrame>
+        <BillFrame id="PRICE">Giá</BillFrame>        
+        <BillFrame id="ERR_NUMBER_EMPTY">Số điện thoại còn trống</BillFrame>
+        <BillFrame id="ERR_NUMBER_WRONG">Số điện thoại không hợp lệ</BillFrame>        
+        <BillFrame id="ERR_SUM_EMPTY">Tổng tiền còn trống</BillFrame>
+        <BillFrame id="ERR_SUM_WRONG">Tổng tiền không hợp lệ</BillFrame>     
+    </BillFrame>
+    <Customer>
+        <Customer id="TITLE">Quản lý khách hàng - The Caffeine Cove</Customer>
+        <Customer id="UPDATE">Cập nhật</Customer>
+        <Customer id="RESET">Làm trống</Customer>
+        <Customer id="EXIT">Thoát</Customer>
+        <Customer id="REFRESH">Làm mới</Customer>
+        <Customer id="DELETE">Xóa</Customer>
+        <Customer id="LIST_CUSTOMER">Danh sách khách hàng</Customer>
+        <Customer id="SEX">Giới tính</Customer>
+        <Customer id="PHONE_NUMBER">Số điện thoại</Customer>
+        <Customer id="INFO_CUSTOMER">Thông tin khách hàng</Customer>        
+        <Customer id="NAME_CUSTOMER">Tên khách hàng</Customer>
+        <Customer id="SUM_POINTS">Tổng điểm</Customer>
+        <Customer id="ADD">Thêm</Customer>
+        <Customer id="NOTIFICATION_TITLE">Thông báo</Customer>
+        <Customer id="NOTI_SUCCESS">Thành công</Customer>
+        <Customer id="NOTI_FAILED">Thất bại</Customer> 
+        <Customer id="CHOSSE_DELETE">Chọn khách hàng để xóa</Customer>
+        <Customer id="REQUEST_DELETE">Bạn có chắc chắn xóa</Customer>   
+        <Customer id="ERR_NUMBER_EMPTY">Số điện thoại còn trống</Customer>
+        <Customer id="ERR_NUMBER_WRONG">Số điện thoại không hợp lệ</Customer>     
+        <Customer id="ERR_NAME_EMPTY">Tên khách hàng còn trống</Customer>   
+        <Customer id="ERR_POINT_WRONG">Tổng điểm không hợp lệ</Customer>
+        <Customer id="ERR_POINT_EMPTY">Tổng điểm còn trống</Customer>    
+        <Customer id="MALE">Nam</Customer> 
+        <Customer id="FEMALE">Nữ</Customer> 
+    </Customer>
+    <Employee>
+        <Employee id="TITLE">Quản lý nhân viên - The Caffeine Cove</Employee>
+        <Employee id="UPDATE">Cập nhật</Employee>
+        <Employee id="RESET">Làm trống</Employee>
+        <Employee id="EXIT">Thoát</Employee>
+        <Employee id="REFRESH">Làm mới</Employee>
+        <Employee id="DELETE">Xóa</Employee>
+        <Employee id="CCCD">CCCD</Employee>
+        <Employee id="LIST_EMPLOYEE">Danh sách nhân viên</Employee>
+        <Employee id="SEX">Giới tính</Employee>
+        <Employee id="ID_BRANCH">Mã chi nhánh</Employee>        
+        <Employee id="ID_EMPLOYEE">Mã nhân viên</Employee>
+        <Employee id="DATE_WORK">Ngày vào làm</Employee>
+        <Employee id="INFO_EMPLOYEE">Thông tin nhân viên</Employee>
+        <Employee id="NAME_BRANCH">Tên chi nhánh</Employee>
+        <Employee id="NAME_EMPLOYEE">Tên nhân viên</Employee>
+        <Employee id="ADD">Thêm</Employee>
+        <Employee id="NOTIFICATION_TITLE">Thông báo</Employee>
+        <Employee id="NOTI_SUCCESS">Thành công</Employee>
+        <Employee id="NOTI_FAILED">Thất bại</Employee>
+        <Employee id="CHOSSE_DELETE">Chọn chọn nhân viên để xóa</Employee>
+        <Employee id="REQUEST_DELETE">Bạn có chắc chắn xóa</Employee>
+        <Employee id="MALE">Nam</Employee> 
+        <Employee id="FEMALE">Nữ</Employee> 
+        <Employee id="ERR_NAME_EMPLOYEE_EMPTY">Tên nhân viên còn trống</Employee>
+        <Employee id="ERR_DATE_WRONG">Ngày vào làm bị sai</Employee> 
+        <Employee id="ERR_CCCD">Nhập sai CCCD/CMND</Employee> 
+    </Employee>
+    <Stat>
+        <Stat id="TITLE">Thống kê</Stat>
+        <Stat id="REVENUE">Doanh thu</Stat>
+        <Stat id="TITLE_CHART">Doanh thu từng ngày</Stat>        
+    </Stat>
+    <Chat>
+        <Chat id="SEND">Gửi</Chat>
+        <Chat id="CANCEL">Hủy: </Chat>
+        <Chat id="ORDER">Gọi: </Chat>
+    </Chat>
+</language>
+
