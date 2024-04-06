@@ -19,3 +19,10 @@
 
 ### Màn hình bán hàng
 <img src="https://i.imgur.com/2Cd5P2x.png">
+
+## Danh sách thành viên
+
+| MSSV | Họ tên | Đánh giá |
+|--------------|-------|------|
+| 20521075 | Nguyễn Vân Anh | 100% | 
+| 20521158 | Nguyễn Hải Đăng | 100% | 
